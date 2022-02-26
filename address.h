@@ -57,7 +57,7 @@ namespace pkodev
             const unsigned int CGuiFont = 0x0066A730;
 
             // void CGuiFont::Render( const char* str, int x, int y, DWORD color,float size )
-            const unsigned int CGuiFont__Render = 0x0048A650;
+            const unsigned int CGuiFont__Render = 0x00423FB0;
 
             // CMPFont
             const unsigned int CMPFont = 0x0066A740;
